@@ -1,0 +1,2 @@
+От имени пользователя posgres выполнить:
+pg_dump Avia > avia.sql
